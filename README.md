@@ -1,6 +1,6 @@
 <h1>ExpNo 5 : Implement Simple Hill Climbing Algorithm</h1> 
-<h3>Name: Saravanan N</h3>
-<h3>Register Number/Staff Id: TSML006</h3>
+<h3>Name: MOHAMED FAREED F</h3>
+<h3>Register Number: 212222230082</h3>
 <H3>Aim:</H3>
 <p>Implement Simple Hill Climbing Algorithm and Generate a String by Mutating a Single Character at each iteration </p>
 <h2> Theory: </h2>
@@ -37,6 +37,8 @@ Feedback is provided in terms of heuristic function
 <p> Evaluate the fitness function or Heuristic Function</p>
 <h3>Step-4:</h3>
 <p> Lopp Step -2 and Step-3  until we achieve the score to be Zero to achieve Global Minima.</p>
+
+<hr>
 
 ## Program:
 ```
@@ -76,9 +78,8 @@ def SimpleHillClimbing():
 #solution=generate_random_solution(answer)
 #print(evaluate(solution,answer))
 SimpleHillClimbing()
-
 ```
-<hr>
+
 <h2>Sample Input and Output</h2>
 <h2>Sample String:</h2> Artificial Intelligence
 <h2>Output:</h2>
@@ -100,6 +101,5 @@ Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 0  Solution :  Artificial Intelligence<br>
 
-## Result:
-Thus the implementation of simple hill climbing algorithm was done successfully.
-
+### RESULT:
+Thus, Simple Hill Climbing Algorithm was implemented successfully using python programming.
